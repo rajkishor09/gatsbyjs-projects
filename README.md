@@ -1,6 +1,6 @@
 # gatsbyjs-projects
 
-Site : https://vickywords.com
+Site : [anagram solver scrabble](https://vickywords.com)
 
 Stack: GatsbyJS, Material-UI and Serveless
 
